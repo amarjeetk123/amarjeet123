@@ -11,4 +11,4 @@ This is my first project , and I'm new in this field so i spend aprox 5 hour to 
 - [Live Link....](https://app.netlify.com/sites/funny-choux-139d35/overview)
 
 ## Screenshot of my web page.
-- ![Image]{./assets/my-page.jpg}
+ ![Image](./assets/my-page.jpg)
