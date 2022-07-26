@@ -103,7 +103,11 @@
     height: 30px;
     border: 2px solid #0D0D0D ;
     border-radius: 20px;
+    transition: 0.4s;
     
+}
+.btn button:hover{
+    transform: scale(1.2);
 }
 .stars{
     margin-left: -1000px;
