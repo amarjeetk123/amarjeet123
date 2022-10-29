@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://amarjeet123.hashnode.dev/](https://amarjeet123.hashnode.dev/)
 
-- 💬 Ask me about **JS , HTML , CSS ,Bootstrap , C , Tailwind**
+- 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React , C**
 
 - 📫 How to reach me **ak123del@gmail.com**
 
