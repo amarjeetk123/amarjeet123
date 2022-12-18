@@ -13,6 +13,8 @@
 
 - 📝 I regularly write articles on [https://amarjeet123.hashnode.dev/](https://amarjeet123.hashnode.dev/)
 
+- - 📄 My resume [https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 - 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React , C**
 
 - 📫 How to reach me **ak123del@gmail.com**
