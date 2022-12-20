@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://amarjeet123.hashnode.dev/](https://amarjeet123.hashnode.dev/)
 
-- - 📄 My resume [https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- 📄 My resume [shorturl.at/ajtuC](shorturl.at/nHQ57)
 
 - 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React , C**
 
@@ -39,11 +39,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarjeetk123&show_icons=true&locale=en" alt="amarjeetk123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarjeetk123&" alt="amarjeetk123" /></p>
-
-
-
-
-
-
-
 
