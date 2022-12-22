@@ -15,7 +15,7 @@
 
 - 📄 My resume [shorturl.at/ajtuC](shorturl.at/nHQ57)
 
-- 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React , C**
+- 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React, Node, MongooDB , C**
 
 - 📫 How to reach me **ak123del@gmail.com**
 
