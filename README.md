@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amarjeet-kumar-portfolio.netlify.app/](https://amarjeet-kumar-portfolio.netlify.app/)
 
-- 📝 I regularly write articles on [https://amarjeet123.hashnode.dev/](https://amarjeet123.hashnode.dev/)
+- 📝 I regularly write articles on [my aricals](https://amarjeet123.hashnode.dev/)
 
 - 📄 My resume [shorturl.at/ajtuC](shorturl.at/nHQ57)
 
