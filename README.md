@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [my aricals](https://amarjeet123.hashnode.dev/)
 
-- 📄 My resume [shorturl.at/ajtuC](shorturl.at/nHQ57)
+- 📄 My resume [shorturl.at/ajtuC](https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 - 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React, Node, MongooDB , C**
 
