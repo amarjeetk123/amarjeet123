@@ -15,7 +15,7 @@
 
 - 📄 My resume [shorturl.at/ajtuC](https://www.canva.com/design/DAFTxmgPRHU/Qnv5IVt5tCfx2bOV2xjNJg/view?utm_content=DAFTxmgPRHU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-- 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JS , React, Node, MongooDB , C**
+- 💬 Ask me about **HTML , CSS , Tailwind , Bootstrap , JavaScript , React JS, Node, Express JS, MongooDB , C**
 
 - 📫 How to reach me **ak123del@gmail.com**
 
